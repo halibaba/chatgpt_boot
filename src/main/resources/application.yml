@@ -1,0 +1,25 @@
+server:
+  port: 9527
+
+wx:
+  app:
+    id: wxba9958cba9c02887
+    secret: 931f9419cbfbbc6755a451164f98ae1f
+  token: token
+
+#openAI:
+#  app:
+#    id: vaLbLv42xpjTQcO
+#    token: 7uG2uMfOdiWALNkGwTC22J6vHXDJ5D
+#    secret: ttSxjynwpp311uVkq98JBYrsSbQtUsOgAzZngjmSWpH
+
+openAI:
+  token: Bearer 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
+
+file:
+  upload:
+    containerpath: /mydata
+    systempath: /opt/chatgpt_file/html
+    hostname: chatbba.top
+    username: root
+    password: someone+1
