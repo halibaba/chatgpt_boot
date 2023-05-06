@@ -2,24 +2,15 @@ server:
   port: 9527
 
 wx:
-  app:
-    id: wxba9958cba9c02887
-    secret: 931f9419cbfbbc6755a451164f98ae1f
-  token: token
-
-#openAI:
-#  app:
-#    id: vaLbLv42xpjTQcO
-#    token: 7uG2uMfOdiWALNkGwTC22J6vHXDJ5D
-#    secret: ttSxjynwpp311uVkq98JBYrsSbQtUsOgAzZngjmSWpH
+  token: 微信自动回复的token
 
 openAI:
-  token: Bearer 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
+  token: chatgpt的token
 
 file:
   upload:
-    containerpath: /mydata
-    systempath: /opt/chatgpt_file/html
-    hostname: chatbba.top
-    username: root
-    password: someone+1
+    containerpath: 文件挂载到容器的位置
+    systempath: 文件存放位置
+    hostname: 域名
+    username: 服务器账户
+    password: 服务器密码
