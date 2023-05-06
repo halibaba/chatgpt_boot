@@ -1,7 +1,7 @@
 # chatgpt_boot
 微信公众号自动回复-chatgpt
 
-1.代码在master分支
+1.代码 在master分支
 
 2.docker环境部署，你也可以直接部署在你的linux服务器上
 
