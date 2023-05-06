@@ -9,6 +9,6 @@
 
 ·订阅号或公众号，在公众号的基本设置里面填写url地址和token，我的url地址为http://chatbba.top/v1/check_token，换成自己的域名即可
 
-·chagpt的token，https://platform.openai.com/account/api-keys
+·chagpt的token，地址：https://platform.openai.com/account/api-keys
 
 4.启动项目，自动回复开启
